@@ -1,0 +1,21 @@
+PODS:
+  - SimulatorStatusMagic (2.4.1)
+  - SwiftLint (0.38.2)
+
+DEPENDENCIES:
+  - SimulatorStatusMagic
+  - SwiftLint
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - SimulatorStatusMagic
+  trunk:
+    - SwiftLint
+
+SPEC CHECKSUMS:
+  SimulatorStatusMagic: 28d4a9d1a500ac7cea0b2b5a43c1c6ddb40ba56c
+  SwiftLint: 8f5d2f903e1c9bcbc832fd16771e80a263ac6cbb
+
+PODFILE CHECKSUM: a5a942df21de237ed7c6eb383cbb327fde35b1dc
+
+COCOAPODS: 1.8.4
