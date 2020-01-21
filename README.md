@@ -1,8 +1,8 @@
 # SingSong
-iOS app to store lullaby lyrics designed to be used during bedtime
+An iOS app with a focus on bedtime and lullabies
 
 ## Background
-As part of our daughter's bedtime routine, we would sing her a couple of songs. She would ask us to "sing song pwease." Sometimes determining which song she requested required a lot of contextual information (what did we do that day, which Disney princess was she obsessed with at the time) and I'm not particularly good at remembering all the words and I'm pretty bad at making up lyrics when my memory fails me. So I created SingSong a dedicated app with a focus on bedtime and lullabies.
+As part of our daughter's bedtime routine, we would sing her a couple of songs. She would ask us to "sing song pwease." Sometimes determining which song she requested required a lot of contextual information (what did we do that day, which Disney princess was she obsessed with at the time) and I'm not particularly good at remembering all the words and I'm pretty bad at making up lyrics when my memory fails me. So I created SingSong, a dedicated app with a focus on bedtime and lullabies.
 
 ## Features
 * Add and Edit songs
@@ -14,7 +14,7 @@ As part of our daughter's bedtime routine, we would sing her a couple of songs. 
 ## Technicals
 Besides customizing the app experience to our specific needs, I wanted to gain additional experience in building an app using the Coordinator pattern (as presented by [Soroush Khanlou](https://vimeo.com/144116310)). I also wanted to reinforce my understanding of iOS framework basics (table views, table data sources, activity view controller).
 
-## Possible Improvements
+### Possible Improvements
 * Adding text display options
 * Adding interface style options (high contrast, light mode, etc.)
 * Improving accessibility
